@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Statistics
-![Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nndqu&show_icons=true&theme=default)  
-![GitHub Streak](https://streak-stats.demolab.com?user=nndqu&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nndqu&layout=compact&theme=default)  
+![Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongQuanz&show_icons=true&theme=default)  
+![GitHub Streak](https://streak-stats.demolab.com?user=DongQuanz&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongQuanz&layout=compact&theme=default)  
 
 ---
 
