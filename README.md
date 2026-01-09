@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 ## 👤 About Me
 - 🎓 Currently an **Honors Program student in Computer Science** at the **University of Science, VNU-HCM**.  
-- 🚀 Working on the **AI Challenge HCMC** project.
-- 🔢 Working at the **lab of PhD. Bùi Văn Thạch**.
+- 🔢 Working at the **lab of PhD. Bui Van Thach**.
 - 📚 Learning and exploring **Bioinformatics, Information Theory, Machine Learning**.  
 - 🤝 Looking to collaborate on **bioinformatics projects**, especially in **genome analysis, and computational modeling of biological data**.  
 
@@ -37,8 +36,7 @@ Here are some ideas to get you started:
 ---
 
 
-## 🎯 Near-term Goals
-- Achieve an **IELTS score of 7.0+**.  
+## 🎯 Near-term Goals  
 - Publish at least **one paper in a Q1 bioinformatics journal**.  
 
 ---
@@ -53,12 +51,5 @@ Here are some ideas to get you started:
 ## 📫 Contact
 - 📧 Email: [nndquan296@gmail.com](mailto:nndquan296@gmail.com)  
 - 🌐 Facebook: [Đông Quân](https://www.facebook.com/dongquan.209/)
-
----
-
-## 📊 GitHub Statistics
-![Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongQuanz&show_icons=true&theme=default)  
-![GitHub Streak](https://streak-stats.demolab.com?user=DongQuanz&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongQuanz&layout=compact&theme=default)  
 
 ---
