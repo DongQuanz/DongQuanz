@@ -1,0 +1,53 @@
+<svg width="720" height="220" viewBox="0 0 720 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .name { font-family: Georgia, serif; font-size: 28px; font-weight: 400; fill: #111; }
+      .tagline { font-family: Georgia, serif; font-size: 12.5px; font-style: italic; fill: #888; }
+      .label { font-family: 'Courier New', monospace; font-size: 8.5px; fill: #bbb; letter-spacing: 1.4px; }
+      .value { font-family: Georgia, serif; font-size: 12px; fill: #222; }
+      .value-sub { font-family: 'Courier New', monospace; font-size: 10px; fill: #888; }
+      .bt { font-family: 'Courier New', monospace; font-size: 10px; }
+    </style>
+  </defs>
+
+  <rect width="720" height="220" fill="#fafafa"/>
+  <rect x="0" y="0" width="4" height="220" fill="#1D9E75"/>
+
+  <text x="24" y="44" class="name">Ngo Nguyen Dong Quan</text>
+  <text x="26" y="64" class="tagline">"If genes are a kind of code, I hope they don't have bugs like me."</text>
+
+  <line x1="24" y1="78" x2="696" y2="78" stroke="#e0e0e0" stroke-width="0.5"/>
+
+  <!-- Card 1: Affiliation -->
+  <rect x="24" y="88" width="210" height="58" rx="4" fill="#fff" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="36" y="106" class="label">AFFILIATION</text>
+  <text x="36" y="122" class="value">FIT · VNUHCM-US</text>
+  <text x="36" y="137" class="value-sub">Faculty of Info. Technology</text>
+
+  <!-- Card 2: Role -->
+  <rect x="244" y="88" width="210" height="58" rx="4" fill="#fff" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="256" y="106" class="label">ROLE</text>
+  <text x="256" y="122" class="value">Undergraduate Researcher</text>
+  <text x="256" y="137" class="value-sub">Advisor: Dr. Bui Van Thach</text>
+
+  <!-- Card 3: Domain Knowledge -->
+  <rect x="464" y="88" width="232" height="58" rx="4" fill="#fff" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="476" y="106" class="label">DOMAIN KNOWLEDGE</text>
+  <text x="476" y="122" class="value">Biology</text>
+  <text x="476" y="137" class="value-sub">Le Hong Phong Gifted H.S.</text>
+
+  <line x1="24" y1="162" x2="696" y2="162" stroke="#e0e0e0" stroke-width="0.5"/>
+
+  <!-- Badges -->
+  <rect x="24" y="172" width="116" height="20" rx="3" fill="#E6F1FB" stroke="#85B7EB" stroke-width="0.5"/>
+  <text x="82" y="186" class="bt" fill="#0C447C" text-anchor="middle">BSc. IT · Honors</text>
+
+  <rect x="148" y="172" width="82" height="20" rx="3" fill="#FAEEDA" stroke="#EF9F27" stroke-width="0.5"/>
+  <text x="189" y="186" class="bt" fill="#633806" text-anchor="middle">GPA 3.7 / 4.0</text>
+
+  <rect x="238" y="172" width="138" height="20" rx="3" fill="#E1F5EE" stroke="#5DCAA5" stroke-width="0.5"/>
+  <text x="307" y="186" class="bt" fill="#085041" text-anchor="middle">Computational Biology</text>
+
+  <rect x="384" y="172" width="100" height="20" rx="3" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="0.5"/>
+  <text x="434" y="186" class="bt" fill="#3C3489" text-anchor="middle">Deep Learning</text>
+</svg>
