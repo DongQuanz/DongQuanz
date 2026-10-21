@@ -1,3 +1,5 @@
+# *NGO NGUYEN DONG QUAN*
+
 ![BSc. IT Honors](https://img.shields.io/badge/BSc.%20IT%20·%20Honors-VNUHCM--US-blue?style=flat-square)
 ![GPA](https://img.shields.io/badge/GPA-3.85%2F4.0-informational?style=flat-square)
 ![Field](https://img.shields.io/badge/Focus-Computational%20Biology-teal?style=flat-square&color=1D9E75)
