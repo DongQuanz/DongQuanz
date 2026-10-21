@@ -5,8 +5,6 @@
 ![Field](https://img.shields.io/badge/Focus-Computational%20Biology-teal?style=flat-square&color=1D9E75)
 ![Field](https://img.shields.io/badge/Focus-Deep%20Learning-purple?style=flat-square&color=7F77DD)
 
----
-
 ## Research
 
 ### Selected Publications
@@ -25,6 +23,28 @@ Huy-Hoang Pham-Le<sup>†</sup>, Nhat-Bao Vo<sup>†</sup>, **Dong-Quan Ngo-Nguy
 **ClueScope: Evidence-Centric Multimodal Video Retrieval for Interactive Search**<br>
 Co-author.<br>
 *Video Browser Showdown 2027 (MMM 2027)* — Accepted, to appear.
+
+---
+
+## Projects
+
+### [StructLitRAG](https://github.com/DongQuanz/structlitrag)
+
+A dimension-aware RAG workspace for academic literature synthesis. It organizes arXiv papers by problem, method, dataset, results, and limitations, producing evidence-linked comparison matrices and review drafts with traceable sources and portable exports.
+
+*Python · Gradio · Retrieval-Augmented Generation*
+
+### [Community Detection Benchmark](https://github.com/DongQuanz/community-detection-cpp)
+
+A reproducible C++17/Python pipeline for comparing Girvan–Newman, Spectral Clustering, Louvain, and Label Propagation under a shared evaluation protocol. It assesses partition quality, stability, robustness, runtime, and memory use, with recorded seeds and provenance to support reproducible experiments.
+
+*C++17 · Python · Graph Algorithms · Reproducible Research*
+
+### [LexiDaily](https://github.com/DongQuanz/lexidaily)
+
+An offline Android vocabulary app for Vietnamese learners of General English and IELTS. It combines 3,000 English–Vietnamese vocabulary entries with spaced review, personalized daily learning plans, and contextual practice, keeping learning progress on the device.
+
+*Kotlin · Jetpack Compose · Room · Android*
 
 ---
 
